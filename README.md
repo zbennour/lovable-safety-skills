@@ -134,9 +134,3 @@ A vague description is the main reason a skill fails to load when expected; lead
 ## Contributing
 
 Issues and PRs welcome. When adding a skill: one job per skill, a sharp `Use when…` description with explicit boundaries, and concrete instructions a new teammate could follow on their first day.
-
----
-
-## License
-
-Add your license of choice (e.g. MIT) as a `LICENSE` file.
